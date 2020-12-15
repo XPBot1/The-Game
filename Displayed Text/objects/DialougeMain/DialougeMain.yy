@@ -22,10 +22,6 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":49,"eventType":5,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":50,"eventType":5,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":51,"eventType":5,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":52,"eventType":5,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"DialougeMain","path":"objects/DialougeMain/DialougeMain.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],

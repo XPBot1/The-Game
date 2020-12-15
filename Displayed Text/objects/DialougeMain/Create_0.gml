@@ -1,5 +1,6 @@
 /// @description The entirety of the entire dialouge
 i = 0;
+z = 0;
 charCount = 0;
 xBuffer = 20;
 yBuffer = 30;
@@ -66,9 +67,11 @@ statements[11,2] = 0 //connects to another statement(0) or response(s)(1)
 statements[11,3] = 12 //connection's array number
 
 statements[12,0] = "Boris: Is there something I haven't told you?" //text to display
-statements[12,1] = 1 //number of connections
-statements[12,2] = 0 //connects to another statement(0) or response(s)(1)
-statements[12,3] = 13 //connection's array number
+statements[12,1] = 3//number of connections
+statements[12,2] = 1 //connects to another statement(0) or response(s)(1)
+statements[12,3] = 0 //connection's array number
+statements[12,2] = 1 
+statements[12,3] = 2
 
 statements[13,0] = "Boris Stan: A friend of mine told me about it..." //text to display
 statements[13,1] = 1 //number of connections
